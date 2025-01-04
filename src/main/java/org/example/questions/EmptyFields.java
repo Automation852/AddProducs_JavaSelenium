@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 import static net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getProxiedDriver;
-
+//
 public class EmptyFields implements  Question<String>  {
     private final AcceptAlertTask task;
 
